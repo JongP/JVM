@@ -1,5 +1,5 @@
 module JVM {
-    requires net.sf.cglib;
+//    requires net.sf.cglib;
     requires jdk.unsupported;
     requires java.compiler;
     
