@@ -27,7 +27,7 @@ public class FieldHasNoPolymorphic {
         }
 
         public void showMeTheMoney() {
-            System.out.println("I am a Son, I have $" + money);  // 필드 출력
+            System.out.println("I am a Son, I have $" + money);  // 필드 출력 // super.money
         }
     }
 

@@ -10,6 +10,10 @@ public class StaticResolution {
         System.out.println("hello world");
     }
 
+    public static void sayBye() {
+        System.out.println("bye world");
+    }
+
     public static void main(String[] args) {
         StaticResolution.sayHello();
     }
